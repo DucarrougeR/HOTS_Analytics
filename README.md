@@ -1,5 +1,5 @@
 # Heroes of the Storm Data Analysis
----------------------------------
+
 Heroes of the Storm (Blizzard) Data Analysis
 
 
@@ -12,5 +12,7 @@ This notebook was designed to analyze a HOTS dataset from May 15th, 2015 to May 
 The source for the dataset is www.HOTSlogs.com and the files were provided in .csv format.
 This is used to predict which features are the more determinant in predicting the win rate
 for Hero League games.
+
+
 =======
 
