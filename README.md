@@ -3,7 +3,7 @@
 Heroes of the Storm (Blizzard) Data Analysis
 
 
-<img src="https://www.google.ie/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjngd61-p7dAhVLL8AKHS2cDi0QjRx6BAgBEAU&url=https%3A%2F%2Fheroesofthestorm.com%2F&psig=AOvVaw0mJhJypWm5p54iIEaNiktR&ust=1536068284370336"
+<img src="https://www.dvsgaming.org/wp-content/uploads/2017/06/Heroes_Of_The_Storm_Pictures10.jpg"
  alt="HoTS" title="HeoresOfTheStorm"/>   
  
 Contributors: Brendan Dwyer, Michael McNulty, Romain Ducarrouge  
